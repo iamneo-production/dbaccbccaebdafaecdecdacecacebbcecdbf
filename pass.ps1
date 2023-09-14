@@ -6,7 +6,7 @@ $num2 = [int]$num2
 
 $tot = $num1 + $num2 
 
-if ($total -ge 70){
+if ($total -ge 70) {
     Write-Host "Pass"
 } else {
     Write-Host "Fail"
